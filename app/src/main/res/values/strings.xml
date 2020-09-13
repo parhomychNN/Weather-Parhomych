@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Parhomych</string>
+    <string name="choose_a_city">Выбрать город</string>
+    <string name="find_a_city">Найти город</string>
+</resources>
